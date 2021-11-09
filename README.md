@@ -1,2 +1,4 @@
 # program_elect.rep
-Repositorio de electiva en python
+
+## Descripcion
+Repositorio de electiva en python usando Git
