@@ -28,3 +28,21 @@ string_1 = 'Hola'
 string_2 = ' Mundo'
 string_res = string_1 + string_2
 print(string_res)
+
+import datetime
+import sys
+# Muestra info del programa y su version
+version = sys.version
+print(version)
+
+# Muestra de manera desglosada la info de la version
+version_info = sys.version_info
+print(version_info)
+
+# Muestra fecha actual exacta (aa/mm/dd/hh)
+print(datetime.datetime.now())
+
+# Guarda datetime como string y cambia el formato (Dd/Mm/Aa)
+current_date = datetime.datetime.now()
+print(current_date.strftime("%A %d %B (%m) %y (%Y)"))  # <--- se asigna el formato con % -
+print(current_date.strftime("%H:%M:%S"))  # <--- ya que el formato solo especifica datos de tiempo solo se muestra ello
