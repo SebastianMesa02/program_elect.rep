@@ -1,0 +1,11 @@
+## Odd or Even Number Homework
+
+print("Par o Impar")
+
+
+number = int(input("Escriba un numero: "))
+if (number % 2) == 0:
+    print("El numero es par")
+else:
+    print("El numero es impar")
+
