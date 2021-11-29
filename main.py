@@ -46,3 +46,16 @@ print(datetime.datetime.now())
 current_date = datetime.datetime.now()
 print(current_date.strftime("%A %d %B (%m) %y (%Y)"))  # <--- se asigna el formato con % -
 print(current_date.strftime("%H:%M:%S"))  # <--- ya que el formato solo especifica datos de tiempo solo se muestra ello
+
+# Condicionales
+
+number = 10
+userNumber = int(input("Escriba su entrada: "))
+
+if userNumber == number:
+    print("El numero ingresado es igual a ", number)
+elif userNumber < number:
+    print("El numero ingresado es menor a ", number)
+else:
+    print("El numero ingresado es mayor a ", number)
+
