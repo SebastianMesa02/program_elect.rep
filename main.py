@@ -59,3 +59,25 @@ elif userNumber < number:
 else:
     print("El numero ingresado es mayor a ", number)
 
+# Definir funciones
+
+#   Se define la funcion requerida
+def mensajeBienvenida():
+    print("Esta es una prueba")
+
+def funcionExp():
+    print("Esta es una prueba de funcion potencia")
+    numero = float(input("Ingrese un valor de x: "))
+    potencia = float(input("Ingrese un valor de potencia: "))
+    resultado = numero ** potencia
+    print("El resultado es: ", resultado)
+    return
+
+#   Para llamar la funcion
+funcionExp()
+mensajeBienvenida()
+
+
+
+
+
