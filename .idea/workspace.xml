@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9c6eb50-2144-48b7-baeb-55acfd09caa7" name="Changes" comment=".">
+    <list default="true" id="c9c6eb50-2144-48b7-baeb-55acfd09caa7" name="Changes" comment="Conditional Class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calc_homework/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/calc_homework/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637593816944</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Calc Program">
+      <created>1638198312925</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1638198312925</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Conditional Class">
+      <created>1638198358538</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1638198358538</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,6 +225,8 @@
     <MESSAGE value="Math Homework" />
     <MESSAGE value="Instalacion" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="Calc Program" />
+    <MESSAGE value="Conditional Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conditional Class" />
   </component>
 </project>
