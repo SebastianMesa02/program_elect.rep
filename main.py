@@ -74,9 +74,10 @@ def funcionExp():
     return
 
 #   Para llamar la funcion
-funcionExp()
 mensajeBienvenida()
+funcionExp()
 
+# 
 
 
 
